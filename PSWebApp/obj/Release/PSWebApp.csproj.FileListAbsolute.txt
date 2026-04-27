@@ -7,3 +7,12 @@ C:\wwwroot\PSWebApp\PSWebApp\bin\PSWebApp.XmlSerializers.dll
 C:\wwwroot\PSWebApp\PSWebApp\bin\PSWebApp.pdb
 C:\wwwroot\PSWebApp\PSWebApp\bin\MySql.Data.dll
 C:\wwwroot\PSWebApp\PSWebApp\obj\Release\PSWebApp.XmlSerializers.dll
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.dll.config
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.dll
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.XmlSerializers.dll
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.pdb
+C:\wwwroot\penface_backend\PSWebApp\obj\Release\PSWebApp.csproj.CoreCompileInputs.cache
+C:\wwwroot\penface_backend\PSWebApp\obj\Release\PSWebApp.csproj.CopyComplete
+C:\wwwroot\penface_backend\PSWebApp\obj\Release\PSWebApp.dll
+C:\wwwroot\penface_backend\PSWebApp\obj\Release\PSWebApp.pdb
+C:\wwwroot\penface_backend\PSWebApp\obj\Release\PSWebApp.XmlSerializers.dll

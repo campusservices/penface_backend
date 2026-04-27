@@ -10,3 +10,11 @@ C:\wwwroot\PSWebApp\PSWebApp\bin\PSWebApp.pdb
 C:\wwwroot\PSWebApp\PSWebApp\bin\MySql.Data.dll
 C:\wwwroot\PSWebApp\PSWebApp\obj\Debug\PSWebApp.dll
 C:\wwwroot\PSWebApp\PSWebApp\obj\Debug\PSWebApp.pdb
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.dll.config
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.dll
+C:\wwwroot\penface_backend\PSWebApp\bin\PSWebApp.pdb
+C:\wwwroot\penface_backend\PSWebApp\obj\Debug\PSWebApp.csproj.AssemblyReference.cache
+C:\wwwroot\penface_backend\PSWebApp\obj\Debug\PSWebApp.csproj.CoreCompileInputs.cache
+C:\wwwroot\penface_backend\PSWebApp\obj\Debug\PSWebApp.csproj.CopyComplete
+C:\wwwroot\penface_backend\PSWebApp\obj\Debug\PSWebApp.dll
+C:\wwwroot\penface_backend\PSWebApp\obj\Debug\PSWebApp.pdb

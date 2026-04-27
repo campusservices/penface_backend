@@ -1421,52 +1421,6 @@ namespace PSWebApp
 
             return success;
         }
-        
-        /*Public Function WritePenfaceLeaversFile(ByVal dv As DataView, ByVal fileNamePath As String, _
-                                            ByVal Session As HttpSessionState, ByVal trackerDS As SqlDataSource, _
-                                                   ByVal filename As String) As String
-
-        Dim strDestinationFile As String = fileNamePath
-        Dim tw As TextWriter
-        Dim msg As String
-
-        Try
-            tw = New StreamWriter(strDestinationFile)
-
-            For cnt As Integer = 0 To dv.Count - 1
-
-                tw.Write(dv(cnt)("REC_TYPE") & "," & dv(cnt)("KEY_FLD1") & "," & dv(cnt)("KEY_FLD2") & "," _
-                                         & dv(cnt)("J_L_IND") & "," & dv(cnt)("SEX") & "," & dv(cnt)("TITLE") & "," _
-                                         & dv(cnt)("SURNAME") & "," & dv(cnt)("FORENAMES") & "," & dv(cnt)("BIRTH_DT") & "," & dv(cnt)("BIRTH_DT_VERIFIED") & "," _
-                                         & dv(cnt)("NI_NO") & "," & dv(cnt)("NORM_RTR_DT") & "," & dv(cnt)("PAYNO") & "," _
-                                         & dv(cnt)("OTHER_REF") & "," & dv(cnt)("LEAVE_DT") & "," & dv(cnt)("MARITAL"))
-                tw.WriteLine()
-            Next
-
-            Session("filename") = filename
-
-            '* Update Penface Tracker File *
-            Session("transdt") = Now()
-            trackerDS.Insert()
-
-            msg = "success"
-            tw.Close()
-
-        Catch ex As Exception
-
-            msg = ex.Message()
-            If msg.IndexOf("Duplicate") > 0 Then
-                msg = "Duplicate Filename " & Session("filename")
-            End If
-            tw.Close()
-
-        End Try
-
-        tw.Close()
-
-        WritePenfaceLeaversFile = msg
-
-    End Function*/
 
         public String returnFileName()
         {
@@ -1601,7 +1555,7 @@ namespace PSWebApp
                 conn = new MySqlConnection();
 
 
-                conn.ConnectionString = "SERVER=" + "OWL1" + ";" + "DATABASE=" +
+                conn.ConnectionString = "SERVER=" + "OWL2" + ";" + "DATABASE=" +
                     "payroll" + ";" + "port=3305;" + "UID=" + "admin" + ";" + "PASSWORD=" + "kentish" + ";";
 
 
